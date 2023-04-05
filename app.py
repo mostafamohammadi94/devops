@@ -5,6 +5,8 @@ x = int(input("enter a num: "))
 print("The number you enter: ", x)
 
 
-print("Good Lock!") #Second version
+#Third change!
+y = input("enter your name: " ) 
+print("Good Lock!", y) 
 
 
